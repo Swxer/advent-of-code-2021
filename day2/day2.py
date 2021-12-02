@@ -17,7 +17,7 @@ print(f"part 1 answer is {horizontal * depth}")
 
 # part 2
 
-f = open("input.txt", "r")
+f.seek(0)
 horizontal = 0
 depth = 0
 aim = 0
